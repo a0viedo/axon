@@ -7,7 +7,7 @@
     "debug": "*",
     "configurable": "0.0.1",
     "escape-regexp": "0.0.1",
-    "amp-message": "~0.1.1",
+    "amp-message": "git+ssh://https://github.com/a0viedo/node-amp-message",
     "amp": "git+ssh://git@github.com:a0viedo/node-amp.git"
   },
   "devDependencies": {
